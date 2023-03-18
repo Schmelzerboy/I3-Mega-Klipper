@@ -6,11 +6,11 @@ Warnung : Ich übernehme keine Verantwortung für Schäden an Menschen oder Masc
 
 Es gelten die 5 Sicherheitsregeln:
 
-Freischalten. Als Freischalten bezeichnet man das allpolige Trennen einer elektrischen Anlage von spannungsführenden Teilen. ...
-Gegen Wiedereinschalten sichern. ...
-Spannungsfreiheit feststellen. ...
-Erden und Kurzschließen. ...
-Benachbarte, unter Spannung stehende Teile abdecken oder abschranken.
+Freischalten. Als Freischalten bezeichnet man das allpolige Trennen einer elektrischen Anlage von spannungsführenden Teilen.  
+Gegen Wiedereinschalten sichern.  
+Spannungsfreiheit feststellen.  
+Erden und Kurzschließen.  
+Benachbarte, unter Spannung stehende Teile abdecken oder abschranken.  
 
 
     
