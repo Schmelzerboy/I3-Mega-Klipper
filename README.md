@@ -1,5 +1,6 @@
 # I3-Mega-Klipper
- Anycubic-I3Mega-Tuning-Teil13-Klipper
+Anycubic I3Mega Tuning Teil 13 Mainsail Klipper Part: Elektrik  
+
 
 
 Warnung : Ich übernehme keine Verantwortung für Schäden an Menschen oder Maschine. Der Einbau erfolgt auf eigene Gefahr. Nach Deutschen Recht dürfen nicht Elektiker keine Arbeiten an 230 Volt Netzen durchführen!
