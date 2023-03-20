@@ -2,6 +2,10 @@
 Anycubic I3Mega Tuning Teil 13 Mainsail Klipper Part: Elektrik  
 
 
+alle anderen Projekte:
+https://www.thingiverse.com/schmelzerboy/designs
+
+
 
 Warnung : Ich übernehme keine Verantwortung für Schäden an Menschen oder Maschine. Der Einbau erfolgt auf eigene Gefahr. Nach Deutschen Recht dürfen nicht Elektiker keine Arbeiten an 230 Volt Netzen durchführen!
 
