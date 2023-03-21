@@ -2,6 +2,10 @@
 Anycubic I3Mega Tuning Teil 13 Mainsail Klipper Part: Elektrik  
 
 
+https://youtu.be/kW5aFmzocZc
+
+
+
 alle anderen Projekte:
 https://www.thingiverse.com/schmelzerboy/designs
 
