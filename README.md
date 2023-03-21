@@ -13,8 +13,7 @@ alle anderen Projekte:
 https://www.thingiverse.com/schmelzerboy/designs
 
 
-
-Warnung : Ich übernehme keine Verantwortung für Schäden an Menschen oder Maschine. Der Einbau erfolgt auf eigene Gefahr. Nach Deutschen Recht dürfen nicht Elektiker keine Arbeiten an 230 Volt Netzen durchführen!
+### Warnung : Ich übernehme keine Verantwortung für Schäden an Menschen oder Maschine. Der Einbau erfolgt auf eigene Gefahr. Nach Deutschen Recht dürfen nicht Elektiker keine Arbeiten an 230 Volt Netzen durchführen!
 
 Es gelten die 5 Sicherheitsregeln:  
 
@@ -27,7 +26,7 @@ Es gelten die 5 Sicherheitsregeln:
 
     
     
-Warning : I take no responsibility for any damage to people or machine. Installation is at your own risk. According to German law, non-electricians are not allowed to work on 230 volt networks!
+### Warning : I take no responsibility for any damage to people or machine. Installation is at your own risk. According to German law, non-electricians are not allowed to work on 230 volt networks!
 
 The 5 safety rules apply:  
 
