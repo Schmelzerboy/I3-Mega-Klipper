@@ -8,7 +8,7 @@ Part 3 - TBD
 
 
 Kanal von Dr. Klipper:
-### https://www.youtube.com/@dr.klipper
+https://www.youtube.com/@dr.klipper
 
 Mein Kanal:  
 https://www.youtube.com/channel/UCTYNFDNzhLzgfR8x1OPZsGg
