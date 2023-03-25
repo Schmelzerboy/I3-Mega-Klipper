@@ -1,7 +1,7 @@
 #  Anycubic I3Mega Tuning Mainsail + Klipper feat. @dr.klipper 
 Anycubic I3Mega Tuning Teil 13 Mainsail Klipper Part: Elektrik  
 
-Video Links
+Video Links:  
 Part 1 - https://youtu.be/kW5aFmzocZc (Anycubic I3Mega Tuning Teil 13 Mainsail + Klipper feat. @dr.klipper)  
 Part 2 - https://youtu.be/CcnwJQRyG4Y (#46 - Klipper FAQ - komplette Installation)  
 Part 3 - TBD
