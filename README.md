@@ -7,7 +7,7 @@ Part 2 - https://youtu.be/CcnwJQRyG4Y (#46 - Klipper FAQ - komplette Installatio
 Part 3 - TBD
 
 
-Kanal von Dr. Klipper:  
+Kanal von Dr. Klipper:
 ### https://www.youtube.com/@dr.klipper
 
 Mein Kanal:  
